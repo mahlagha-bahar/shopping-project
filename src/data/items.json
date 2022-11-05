@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "bodf",
+        "price": 1300,
+        "imgUrl": "/images/b3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "bodghk",
+        "price": 5300,
+        "imgUrl": "/images/images.jpg"
+    },
+    {
+        "id": 3,
+        "name": "werk",
+        "price": 1800,
+        "imgUrl": "/images/images (2).jpg"
+    },
+    {
+        "id": 4,
+        "name": "asxok",
+        "price": 1305,
+        "imgUrl": "/images/images (1).jpg"
+    },
+    {
+        "id": 5,
+        "name": "asxok",
+        "price": 1305,
+        "imgUrl": "/images/images (1).jpg"
+    }, {
+        "id": 6,
+        "name": "asxok",
+        "price": 1305,
+        "imgUrl": "/images/images (1).jpg"
+    }
+]
